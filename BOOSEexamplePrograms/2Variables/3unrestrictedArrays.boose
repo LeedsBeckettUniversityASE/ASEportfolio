@@ -1,4 +1,4 @@
-﻿*restricted array example, you will need to replace the Array clas to get this to run.
+﻿*unrestricted array example, you will need to replace the Array class to get this to run.
 int x = 0
 real y
 real z
