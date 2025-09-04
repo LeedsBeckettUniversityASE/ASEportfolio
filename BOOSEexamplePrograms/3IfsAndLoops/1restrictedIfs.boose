@@ -1,5 +1,5 @@
 ﻿*example of an if statement which won't violate restrictions
-*change the value of width to see the circle change size
+*change the value of control to see the circle change size
 int control = 50
 if control < 10
 	pen 255,0,0

@@ -1,18 +1,19 @@
 ﻿*unrestricted array example, you will need to replace the Array class to get this to run.
-int x = 0
+int x
 real y
 real z
 array int nums 10
+array real prices 10
+array real logs 10
 poke nums 5 = 99
 peek x = nums 5
 circle x
-array real prices 10
+pen 0,255,0
 poke prices 5 = 99.99
 peek y = prices 5
-pen 0,255,0
 write "£"+y
 array real logs 10
-poke logs 5 = 100.001
-peek z = logs 5
+poke logs 5 = 100.01
+peek z = log 5
 moveto 0,25
 write z

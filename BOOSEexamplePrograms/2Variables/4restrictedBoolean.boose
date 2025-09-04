@@ -1,0 +1,4 @@
+﻿boolean flag1 = true
+boolean flag2 = false
+boolean flag3 = flag1 && flag2
+write flag3

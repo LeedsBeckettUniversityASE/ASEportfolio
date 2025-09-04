@@ -7,7 +7,7 @@ moveto 150,50
 rect 150,100
 moveto 150,200
 pen 0,0,255
-circle 150
+circle 250
 pen 255,0,0
-moveto 150,50
-rect 150,100
+moveto 200,250
+rect 200,100

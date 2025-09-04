@@ -5,7 +5,10 @@ real width = 10.0
 real pi = 3.14159
 real radius = 27.7
 real circ = 2 * pi * radius
+real another
+real more
 moveto 100,100
 write length * width
 moveto 100,125
 write circ
+circle circ
