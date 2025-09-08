@@ -28,7 +28,7 @@ Keep your progress up to date below. Put "DONE" after each section, when you hav
 	Moveto, circle, rect, pencolour, write.
 	Unrestricted drawing programs can be run (1unrestrictedDrawing.boose)
 
-### Tutor's Feedback
+
 
 
 ### Final Submission
@@ -57,4 +57,4 @@ Keep your progress up to date below. Put "DONE" after each section, when you hav
 #### 8 Additional (web version, text-based version, extension to BOOSE itself, etc, discuss with your tutor) (2) 10 marks
 
 
-### Tutor's Feedback
+### V0.01
