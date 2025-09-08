@@ -1,13 +1,12 @@
-# ASE Portfolio
+# ASE semester 1 2025 Portfolio
 Fill in the fields below.
 
 ## Your Name
-### Your Group
-### Your Tutor
+## Your Group
 
 Keep your progress up to date below. Put "DONE" after each section, when you have done it.
 
-### Checkpoint
+# Checkpoint
 #### 1 Version Control (1) 5 marks
 	At least two documented commits to provided on GitHub Classroom BEFORE 12pm 7th October.
 	At least 5 documented commits.
@@ -28,10 +27,10 @@ Keep your progress up to date below. Put "DONE" after each section, when you hav
 	Moveto, circle, rect, pencolour, write.
 	Unrestricted drawing programs can be run (1unrestrictedDrawing.boose)
 
-### Tutor's Feedback
+### [You MUST fill in the this form before submission](https://forms.gle/MJB6vEbgAPXC6A6G8)
 
 
-### Final Submission
+# Final Submission
 #### 1 Further Version Control (1) 5 marks
 	You must continue to use VC to a professional standard with frequent and clear commits
 	Your Readme.md must be up to date
@@ -56,5 +55,14 @@ Keep your progress up to date below. Put "DONE" after each section, when you hav
 #### 7 Replaced Methods (2) 5 marks
 #### 8 Additional (web version, text-based version, extension to BOOSE itself, etc, discuss with your tutor) (2) 10 marks
 
+### [You MUST fill in the form whilst recording your YouTube Video AND submit it](https://forms.gle/j3eMcVbbjQ3sFrXw7)
 
-### Tutor's Feedback
+## Links
+These are for convinience. Check on myBeckett in the Assessment directory for any up to date links.  
+	[BOOSE Documentation](https://dmullier.github.io/BOOSE-Docs/)  
+	[BOOSE DLL Download](https://github.com/dmullier/BOOSE-Docs/blob/main/BOOSE.dll)  
+	[Assignment Specification - including all university details](https://leedsbeckett-my.sharepoint.com/:b:/r/personal/d_mullier_leedsbeckett_ac_uk/Documents/Teaching/2025-2026/Level6_ASE/ASE_AssignmentSpec.pdf?csf=1&web=1&e=eYfpc5)  
+	[Detailed Assignment Information](https://leedsbeckett-my.sharepoint.com/:w:/r/personal/d_mullier_leedsbeckett_ac_uk/Documents/Teaching/2025-2026/Level6_ASE/Detailed%20Project%20Specification.docx?d=w5f5450df2c0d49fb968702d420314d2f&csf=1&web=1&e=cRDcet)  
+	[Assignment Help Videos](https://leedsbeckettreplay.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=ce4e861f-ed63-4714-97c1-b35300af453e)  
+
+### V1.0
