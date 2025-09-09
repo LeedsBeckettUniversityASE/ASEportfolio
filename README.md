@@ -15,9 +15,9 @@ Keep your progress up to date below. Put "DONE" after each section, when you hav
 	Unit Test for moveto command (variables storing pen position are correct)
 	Unit Test for drawTo command (variables storing pen position are correct)
 	Unit Test for a multiline program.
-#### 3 XML Comments/documentation produced (1) 5 marks*
+#### 3 XML Comments/documentation produced (1) 5 marks
 	Fully documented with XML comments and Documentation web site produced 
-#### 4 Exception Handling (1) 5 marks*
+#### 4 Exception Handling (1) 5 marks
 #### 5 Library (DLL) installed and working with reasonable user interface (2) 10 marks
 	Form interface with program window, output window and run button
 	BOOSE DLL library installed 
@@ -45,17 +45,18 @@ Keep your progress up to date below. Put "DONE" after each section, when you hav
 	Use of Singleton Design Pattern
 	Demonstrate the use of another design pattern of your choice
 	(for 5,6 and 7 you can click the links to see the example BOOSE programs that must be run, these are in your Portfolio. You must run the unrestricted programs and replace the image already there with an 	image of your BOOSE Interpreter running the BOOSE programs. You may show further programs in your portfolio.)
-#### 5 Replaced variables (2)
-	Int	4 marks
-	Real	4 marks
-	Array	5 marks
-#### 6 Replaced if, while, for (2)
+#### 5 Replaced variables (2) 10 marks \*
+	Int	`	2 marks
+	Real	2 marks
+	Array	4 marks
+#### 6 Replaced if, while, for (2) 12 marks \*
 	While 	4 marks
 	For	4 marks
 	If else	4 marks
-#### 7 Replaced Methods (2) 5 marks
-#### 8 Additional (web version, text-based version, extension to BOOSE itself, etc, discuss with your tutor) (2) 10 marks
+#### 7 Replaced Methods (2) 5 marks \*
 
+#### 8 Additional (web version, text-based version, extension to BOOSE itself, etc, discuss with your tutor) (2) 10 marks
+\* You must rewrite the functionality and not try and "hack the system". I've tried to make it so you can't but who knows, eitherway, you've been told..
 ### [You MUST fill in the form whilst recording your YouTube Video AND submit it](https://forms.gle/j3eMcVbbjQ3sFrXw7)
 
 ## Links
